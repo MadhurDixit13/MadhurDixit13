@@ -1,6 +1,6 @@
 # Hi there, I'm Madhur Dixit! 👋
 
-![Cover Image](https://drive.google.com/file/d/1J77Yr6NtLvPMakVw3mASg5KATeb0_MkF/view?usp=drive_link)
+![Cover Image](https://drive.google.com/uc?export=view&id=1J77Yr6NtLvPMakVw3mASg5KATeb0_MkF)
 
 🎓 **Education**: Master's in Computer Science at North Carolina State University (Aug 2023 - May 2025)
 
