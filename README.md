@@ -6,6 +6,8 @@
 
 🌟 **Summary**: Results-driven Computer Science graduate with a 3.83 GPA, passionate about software, web, and game development, machine learning, data engineering and analytics. Actively seeking innovative projects and collaborations.
 
+![Profile Views](https://komarev.com/ghpvc/?username=MadhurDixit13&color=blue)
+
 📧 **Contact**: madhurdixit37@gmail.com | [LinkedIn](https://www.linkedin.com/in/madixit) | [Portfolio](https://madhurdixit13.github.io/Portfolio/) | [GitHub](https://github.com/MadhurDixit13)
 
 📍 **Location**: Raleigh, North Carolina
