@@ -14,7 +14,25 @@
 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=MadhurDixit13&margin-w=15&column=9&theme=chalk&no-frame=true"/>
+<br>
+<br>
 
+<h2>📝 Stats</h2>
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhurDixit13&show_icons=true&theme=dracula" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhurDixit13&layout=compact" />
+</a>
+<br>
+<br>
+<a href="">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MadhurDixit13&theme=neon-palenight&hide_border=true" />
+</a>
+
+<br>
+<br>
 ## Skills & Expertise
 
 - **Programming Languages**: C, C++, Python, C#
