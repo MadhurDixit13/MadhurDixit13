@@ -12,6 +12,9 @@
 
 📍 **Location**: Raleigh, North Carolina
 
+<h2>🏆 Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=MadhurDixit13&margin-w=15&column=9&theme=chalk&no-frame=true"/>
+
 ## Skills & Expertise
 
 - **Programming Languages**: C, C++, Python, C#
