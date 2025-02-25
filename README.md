@@ -4,7 +4,7 @@
 
 🎓 **Education**: Master's in Computer Science at North Carolina State University (Aug 2023 - May 2025)
 
-🌟 **Summary**: Results-driven Computer Science graduate with a 3.83 GPA, passionate about software, web, and game development, machine learning, data engineering and analytics. Actively seeking innovative projects and collaborations.
+🌟 **Summary**: Results-driven Computer Science graduate with a 3.86 GPA, passionate about data engineering and analytics, software, web, and game development, machine learning. Actively seeking innovative projects and collaborations.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MadhurDixit13&color=blue)
 
@@ -34,32 +34,37 @@
 
 ## Skills & Expertise
 
-- **Programming Languages**: C, C++, Python, C#
+- **Programming Languages**: C++, Python, C#, C, R
 - **Web Technologies**: HTML, CSS, JavaScript (Certified)
-- **Databases & OS**: MongoDB, SQL, Linux, Windows
-- **DataScience**: Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Tensorflow, Kafka, Apache Airflow, Docker
-- **Frameworks**: React, REST, ZMQ, V8
-- **Development and Analytics Tools**: VSCode, Postman, Heroku, Git, PowerBI
-- **Game Development**: Unity, Blender, Cascadeur, SFML (Certified)
+- **Databases & OS**: MongoDB, SQL, Linux, Windows, PostgresSQL
+- **DataScience**: Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Tensorflow, Keras, PyTorch, OpenCV, Kafka, Apache Airflow, Docker, PySpark
+- **Frameworks**: React, REST, ZMQ, V8, Flask
+- **Development and Analytics Tools**: VSCode, Postman, Heroku, PowerBI, GIT, Bitbucket, JIRA, Confluence, Tableau, Github Actions, Amazon Web Services (AWS), Render
+- **Game Development**: Unity, Blender, Cascadeur, SFML (Certified), 
 
 ## Work Experience
 
-### Data Engineer | Liquid Rocketry Lab | Raleigh, NC
+### Student Researcher and Data Analyst | North Carolina State University | Raleigh, NC | December 2024 – Present
+- Analyzed 100+ student submissions to compare dual vs. single-submission homework effectiveness.
+- Evaluated the impact of LLMs on dual-submission policies, identifying trends in academic integrity.
+- Increased grading efficiency by 20% through data-driven insights on homework submission patterns.
+
+### Data Engineer | Liquid Rocketry Lab | Raleigh, NC | September 2024 – Present
 - Developed and implemented Python scripts to streamline telemetry test data collection process, resulting in a
 20% increase in data accuracy and efficiency.
-- Created backend systems for real-time streaming and visualization of data to mission control, improving
-decision-making processes by 15%.
-- Automated extraction and addition of properties from GitHub repository data into MongoDB database, reducing
-manual workload by 30%.
+- Optimized InfluxDB queries, reducing sensor data retrieval time from 50s to 1-2s.
+- Investigating migration from Flask to FastAPI to improve API performance, maintainability, and documentation.
+- Designed a new database schema to prevent test session overlap and improve data organization.
 
-### Web Developer Intern | Digiliyo | Mumbai, India
-- Designed React web pages and implemented web forms, contributing to improved user engagement.
-- Developed Adobe Analytics dashboards, achieving a 20% performance enhancement.
-- Collaborated on API development and REST API integration.
+### Web Developer Intern | Digiliyo | Mumbai, India | September 2021 – November 2021
+- Modernised React pages to improve user experience, boosting website conversions by 15%.
+- Built Adobe Analytics dashboards, showcasing a 20% performance improvement.
+- Collaborated with the API team to streamline connections using caching, reducing web app response time by 25%.
 
-### Web Developer Intern | Perch Furnitures | Mumbai, India
-- Redesigned product catalog and product pages based on user studies and UI principles.
-- Implemented mobile-first design strategies and interactive features, boosting customer engagement by 10%.
+### Web Developer Intern | Perch Furnitures | Mumbai, India | February 2021 – August 2021
+- Designed the complete product catalog through three user studies, adhering to UI principle.
+- Enhanced customer engagement by 10% by developing an interactive carousel using Javascript on product pages.
+- Developed and maintained unit tests for the product catalog, ensuring robust functionality and quality improvement.
 
 ## Additional Certifications & Courses
 
