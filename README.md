@@ -34,7 +34,7 @@
 
 - **Programming Languages**: C++, Python, C#, C, R
 - **Web Technologies**: HTML, CSS, JavaScript (Certified)
-- **Databases & OS**: MongoDB, SQL, Linux, Windows, PostgresSQL,Snowflake
+- **Databases & OS**: MongoDB, SQL, Linux, Windows, PostgresSQL, Snowflake
 - **DataScience**: Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Tensorflow, Keras, PyTorch, OpenCV, Kafka, Apache Airflow, Docker, PySpark, Databricks
 - **Frameworks**: React, REST, ZMQ, V8, Flask
 - **Development and Analytics Tools**: VSCode, Postman, Heroku, PowerBI, GIT, Bitbucket, JIRA, Confluence, Tableau, Github Actions, Amazon Web Services (AWS), Render
@@ -62,6 +62,10 @@ reduction in web application response time and improved overall performance.
 ### Web Developer Intern | Perch Furnitures | Mumbai, India | February 2021 – August 2021
 - Designed and developed the full product’s page through 3 user studies using JavaScript and React, increasing customer
 interaction by 10% and built and maintained unit tests for the catalogue.
+
+## Blogs
+- [Medium: Athena v/s Redshift](https://medium.com/@madhurdixit37/athena-vs-redshift-a-real-world-data-lake-vs-warehouse-comparison-using-covid-19-data-1c0c2560bc89)
+- [Medium: MiniSpark](https://medium.com/@madhurdixit37/diving-under-the-hood-of-spark-with-minispark-a-pure-python-learning-playground-afe8fd21e90b)
 
 ## Additional Certifications & Courses
 
