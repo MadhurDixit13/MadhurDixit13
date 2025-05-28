@@ -1,7 +1,5 @@
 # Hi there, I'm Madhur Dixit! 👋
 
-<img src="https://drive.google.com/uc?export=view&id=1J77Yr6NtLvPMakVw3mASg5KATeb0_MkF" alt="Cover Image" width="350" height="400" />
-
 🎓 **Education**: Master's in Computer Science at North Carolina State University (Aug 2023 - May 2025)
 
 🌟 **Summary**: Results-driven Computer Science graduate with a 3.86 GPA, passionate about data engineering and analytics, software, web, and game development, machine learning. Actively seeking innovative projects and collaborations.
@@ -36,8 +34,8 @@
 
 - **Programming Languages**: C++, Python, C#, C, R
 - **Web Technologies**: HTML, CSS, JavaScript (Certified)
-- **Databases & OS**: MongoDB, SQL, Linux, Windows, PostgresSQL
-- **DataScience**: Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Tensorflow, Keras, PyTorch, OpenCV, Kafka, Apache Airflow, Docker, PySpark
+- **Databases & OS**: MongoDB, SQL, Linux, Windows, PostgresSQL,Snowflake
+- **DataScience**: Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Tensorflow, Keras, PyTorch, OpenCV, Kafka, Apache Airflow, Docker, PySpark, Databricks
 - **Frameworks**: React, REST, ZMQ, V8, Flask
 - **Development and Analytics Tools**: VSCode, Postman, Heroku, PowerBI, GIT, Bitbucket, JIRA, Confluence, Tableau, Github Actions, Amazon Web Services (AWS), Render
 - **Game Development**: Unity, Blender, Cascadeur, SFML (Certified), 
@@ -45,26 +43,25 @@
 ## Work Experience
 
 ### Student Researcher and Data Analyst | North Carolina State University | Raleigh, NC | December 2024 – Present
-- Analyzed 100+ student submissions to compare dual vs. single-submission homework effectiveness.
-- Evaluated the impact of LLMs on dual-submission policies, identifying trends in academic integrity.
-- Increased grading efficiency by 20% through data-driven insights on homework submission patterns.
+- Investigated 500+ student submissions to assess dual vs. single-submission homework approach effectiveness.
+- Explored the impact of LLMs on submission policies, uncovering trends in academic integrity and submitted 2 research papers.
+- Improved grading efficiency by 20% through data-driven insights on homework submission patterns. 
 
 ### Data Engineer | Liquid Rocketry Lab | Raleigh, NC | September 2024 – Present
 - Developed and implemented Python scripts to streamline telemetry test data collection process, resulting in a
 20% increase in data accuracy and efficiency.
-- Optimized InfluxDB queries, reducing sensor data retrieval time from 50s to 1-2s.
-- Investigating migration from Flask to FastAPI to improve API performance, maintainability, and documentation.
-- Designed a new database schema to prevent test session overlap and improve data organization.
+- Refactored InfluxDB queries by switching from InfluxQL to Flux, cutting sensor data retrieval time from 50s to under 2s.
+- Migrated backend from Flask to FastAPI to streamline data validation workflows, reducing response time by 40%.
+- Spearheaded the restructuring of a robust database schema to eliminate session conflicts and enhance data integrity
 
 ### Web Developer Intern | Digiliyo | Mumbai, India | September 2021 – November 2021
-- Modernised React pages to improve user experience, boosting website conversions by 15%.
-- Built Adobe Analytics dashboards, showcasing a 20% performance improvement.
-- Collaborated with the API team to streamline connections using caching, reducing web app response time by 25%.
+- Modernised web pages using React boosting conversions by 15% and created web dashboards for user analytics.
+- Collaborated with the API team to streamline data connections by implementing caching using Redis, resulting in a 25%
+reduction in web application response time and improved overall performance. 
 
 ### Web Developer Intern | Perch Furnitures | Mumbai, India | February 2021 – August 2021
-- Designed the complete product catalog through three user studies, adhering to UI principle.
-- Enhanced customer engagement by 10% by developing an interactive carousel using Javascript on product pages.
-- Developed and maintained unit tests for the product catalog, ensuring robust functionality and quality improvement.
+- Designed and developed the full product’s page through 3 user studies using JavaScript and React, increasing customer
+interaction by 10% and built and maintained unit tests for the catalogue.
 
 ## Additional Certifications & Courses
 
