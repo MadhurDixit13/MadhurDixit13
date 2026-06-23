@@ -1,51 +1,54 @@
 # Hi there, I'm Madhur Dixit! 👋
 
-🎓 **Education**: Master of Computer Science, North Carolina State University (Aug 2023 – May 2025) · Bachelor of Engineering in Computer Engineering, University of Mumbai (Aug 2019 – May 2023)
+🎓 **Education**: Master of Computer Science, NC State University (2023–2025) · B.E. Computer Engineering, University of Mumbai (2019–2023)
 
-🌟 **Summary**: Results-driven Computer Science graduate with a 3.86 GPA, passionate about data engineering and analytics, software, web, and game development, machine learning. Actively seeking innovative projects and collaborations.
+🌟 Results-driven CS graduate (GPA 3.86) passionate about data engineering, ML infra, and full-stack development.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MadhurDixit13&color=blue)
 
-📧 **Contact**: madhurdixit37@gmail.com | [LinkedIn](https://www.linkedin.com/in/madixit) | [Portfolio](https://madhurdixit13.github.io/Portfolio/) | [GitHub](https://github.com/MadhurDixit13)
+📧 madhurdixit37@gmail.com | [LinkedIn](https://www.linkedin.com/in/madixit) | [Portfolio](https://madhurdixit13.github.io/Portfolio/) | [GitHub](https://github.com/MadhurDixit13) | [Medium](https://medium.com/@madhurdixit37)
 
-📍 **Location**: Cincinnati, OH
+📍 **Location**: Raleigh, NC
 
-<h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=MadhurDixit13&margin-w=15&column=9&theme=chalk&no-frame=true"/>
-
-<h2>📝 Stats</h2>
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhurDixit13&show_icons=true&theme=dracula" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhurDixit13&layout=compact" />
-</a>
-<br>
-<br>
-<a href="">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MadhurDixit13&theme=neon-palenight&hide_border=true" />
-</a>
-
-<br>
-<br>
+## 🏆 GitHub Trophies
+<img width=800 src="https://github-trophies.vercel.app/?username=MadhurDixit13&margin-w=15&column=9&theme=chalk&no-frame=true"/>
 
 ## Skills & Expertise
 
-- **Languages/OS**: Python, C++, HTML/CSS, JavaScript, SQL, Linux  
-- **Cloud & Data Platforms**: AWS (S3, EC2, Kinesis, Redshift), Snowflake, Databricks, PostgreSQL, MongoDB, Qdrant  
-- **Frameworks & Libraries**: Spark, Airflow, Kafka, DBT, FastAPI, React.js, Node.js, Langchain, Tensorflow, Pandas  
-- **DevOps & Tools**: Docker, Kubernetes (K8s), Terraform, Git, GitHub Actions (CI/CD), Redis, Celery  
-
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
+<!-- 
 ## Work Experience
 
-### ML Infra Engineer | Allyin.ai | Cincinnati, OH | Jul 2025 – Present
+### Software Developer | Runara.ai | San Jose, CA | Jan 2026 – Mar 2026
 - Reduced contract review time by 70% by engineering an automated approval workflow with Airflow and FastAPI.
 - Cut AWS cloud costs by 35% through instance right-sizing, architectural refactoring, and leveraging managed services.
 - Architected a centralized FusionAuth service for unified auth, reducing development & hosting overhead.
 - Directed a flagship product’s development, incorporating requirements from 10+ clients to guide feature implementation and A/B testing.
 
-### Senior Consultant (Volunteer) | Heartland Community Network | Cincinnati, OH | Jun 2025 – Present
+### ML Infra Engineer | Allyin.ai | Cincinnati, OH | Jul 2025 – Dec 2025
+- Reduced contract review time by 70% by engineering an automated approval workflow with Airflow and FastAPI.
+- Cut AWS cloud costs by 35% through instance right-sizing, architectural refactoring, and leveraging managed services.
+- Architected a centralized FusionAuth service for unified auth, reducing development & hosting overhead.
+- Directed a flagship product’s development, incorporating requirements from 10+ clients to guide feature implementation and A/B testing.
+
+### Senior Consultant (Volunteer) | Heartland Community Network | Cincinnati, OH | Jun 2025 – Jan 2026
 - Led the team’s transition from Google Docs to Jira, significantly improving project tracking and productivity.
 - Built a context-aware LangChain agent with hybrid search (SQL/Vector/Graph), improving response accuracy by 25%.
 
@@ -60,6 +63,7 @@
 
 ### Software Engineer Intern | Perch Furnitures | Mumbai, India | Feb 2021 – Aug 2021
 - Increased customer interaction by 10% by designing and developing a product page with React.js, informed by 3 user studies; also built and maintained unit tests for the catalog.
+-->
 
 ## Blogs
 - [Medium: Athena v/s Redshift](https://medium.com/@madhurdixit37/athena-vs-redshift-a-real-world-data-lake-vs-warehouse-comparison-using-covid-19-data-1c0c2560bc89)
@@ -71,14 +75,27 @@
   *Accepted, ASEE Annual Conference & Exposition 2025* — ID 47819  
 
 - **“Reflective Homework as a Learning Tool: Evidence from Comparing 13 Years of Dual vs. Single Submission”**  
-  *Accepted, FIE 2025: Frontiers in Education Conference* — ID 1571118602  
+  *Accepted, FIE 2025: Frontiers in Education Conference* — ID 1571118602
 
-## Additional Certifications & Courses
+## 📝 GitHub Stats
 
-- Introduction to Deep Learning Certification
-- Udemy Courses: Python for Machine Learning and Data Science Master Class, Web Development Bootcamp with MERN Stack
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhurDixit13&show_icons=true&theme=dracula" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhurDixit13&layout=compact" />
+</a>
 
----
+<br><br>
+
+<a href="">
+  <img align="center" src="https://streak-stats.demolab.com/?user=MadhurDixit13&theme=neon-palenight&hide_border=true" />
+</a>
+
+<br><br>
+
+## 📈 Activity Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MadhurDixit13&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Let's connect and collaborate on exciting projects! Feel free to reach out via email or LinkedIn.
 
