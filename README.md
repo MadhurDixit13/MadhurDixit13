@@ -2,7 +2,7 @@
 
 🎓 **Education**: Master of Computer Science, NC State University (2023–2025) · B.E. Computer Engineering, University of Mumbai (2019–2023)
 
-🌟 Results-driven CS graduate (GPA 3.86) passionate about data engineering, ML infra, and full-stack development.
+🌟 Results-driven CS graduate (GPA 3.86) passionate about AI engineering, ML infra, and full-stack development.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MadhurDixit13&color=blue)
 
@@ -71,11 +71,11 @@
 
 ## Research
 
-- **“In the Age of LLMs, Is Dual-Submission Homework Dead?”**  
-  *Accepted, ASEE Annual Conference & Exposition 2025* — ID 47819  
+- [**“In the Age of LLMs, Is Dual-Submission Homework Dead?”**](https://peer.asee.org/in-the-age-of-llms-is-dual-submission-homework-dead.pdf)
+  *ASEE Annual Conference & Exposition 2025* — ID 47819  
 
-- **“Reflective Homework as a Learning Tool: Evidence from Comparing 13 Years of Dual vs. Single Submission”**  
-  *Accepted, FIE 2025: Frontiers in Education Conference* — ID 1571118602
+- [**“Reflective Homework as a Learning Tool: Evidence from Comparing 13 Years of Dual vs. Single Submission”**](https://arxiv.org/html/2508.09314v1)
+  *FIE 2025: Frontiers in Education Conference* — ID 1571118602
 
 ## 📝 GitHub Stats
 
@@ -94,8 +94,8 @@
 
 <br><br>
 
-## 📈 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MadhurDixit13&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- ## 📈 Activity Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MadhurDixit13&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 Let's connect and collaborate on exciting projects! Feel free to reach out via email or LinkedIn.
 
