@@ -3,7 +3,7 @@
 # Hi there, I'm Madhur Dixit! 👋
 
 <a href="https://github.com/MadhurDixit13">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+Infra+%7C+Data+Engineering;Building+pipelines+with+Airflow%2C+Spark+%26+Kafka;MS+CS+%40+NC+State+(GPA+3.86);Published+researcher+%F0%9F%93%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+Infra+%7C+Data+Engineering;Software+Developer+%40+Cultivate+AI;Building+pipelines+with+Airflow%2C+Spark+%26+Kafka;MS+CS+%40+NC+State+(GPA+3.86);Published+researcher+%F0%9F%93%84" alt="Typing SVG" />
 </a>
 
 <p>
@@ -22,6 +22,7 @@
 
 ## 🙋 About Me
 
+- 💼 Currently a **Software Developer at Cultivate AI**, building AI agents and data pipelines for credit unions
 - 🎓 **MS Computer Science**, NC State University (2023–2025) · **B.E. Computer Engineering**, University of Mumbai (2019–2023)
 - 🛠️ I build ML infrastructure, data pipelines, and AI agents, from Airflow DAGs to LangChain hybrid-search agents
 - 📄 Published at **ASEE 2025** and **FIE 2025** on LLMs in CS education
@@ -77,15 +78,19 @@ pipx install csv-summary-cli
 <summary><b>💼 Work Experience (click to expand)</b></summary>
 <br>
 
-**Software Developer** · Runara.ai · San Jose, CA · *Jan 2026 – Mar 2026*
+**Software Developer** · Cultivate AI · Raleigh, NC · *Jun 2026 – Present*
+- Built agent tools for an AI assistant serving credit unions (Python/FastAPI, React/TypeScript), including sandboxed code execution on AWS Bedrock AgentCore that generates Word, Excel, PowerPoint, PDF, and chart files.
+- Added a persistent per-user bash workspace (up to 100 MB across messages), parallel tool execution, and automatic failover to backup LLMs during provider outages.
+- Cut worst-case keyword search latency 40x (2.7s → 63ms) with Postgres trigram indexes, and ingested 1,300+ NCUA regulatory documents into AI search.
+- Engineered regulatory news scrapers (RSS, WordPress APIs, custom HTML parsers) running every 6 hours on AWS EventBridge Scheduler.
+- Secured a multi-tenant platform with folder-level permissions and user groups enforced through Postgres row-level security, and sandboxed AI-generated SQL in memory-capped processes.
+- Identified and fixed a metric error that overstated loan delinquency 4x across all production data.
+
+**Software Developer** · Runara.ai · San Jose, CA · *Jul 2025 – Mar 2026*
 - Reduced contract review time by 70% by engineering an automated approval workflow with Airflow and FastAPI.
 - Cut AWS cloud costs by 35% through instance right-sizing, architectural refactoring, and managed services.
 - Architected a centralized FusionAuth service for unified auth, reducing development and hosting overhead.
 - Directed a flagship product's development, incorporating requirements from 10+ clients to guide features and A/B testing.
-
-**ML Infra Engineer** · Allyin.ai · Cincinnati, OH · *Jul 2025 – Dec 2025*
-<!-- TODO: these bullets were identical to Runara's in the old README. Replace with your actual Allyin.ai work. -->
-- _Add Allyin.ai accomplishments here_
 
 **Senior Consultant (Volunteer)** · Heartland Community Network · Cincinnati, OH · *Jun 2025 – Jan 2026*
 - Led the team's transition from Google Docs to Jira, significantly improving project tracking and productivity.
@@ -117,11 +122,13 @@ pipx install csv-summary-cli
 </details>
 
 <details>
-<summary><b>✍️ Blogs (click to expand)</b></summary>
+<summary><b>✍️ Latest Blogs (auto-updated, click to expand)</b></summary>
 <br>
 
+<!-- BLOG-POST-LIST:START -->
 - [Athena vs. Redshift: A Real-World Data Lake vs. Warehouse Comparison](https://medium.com/@madhurdixit37/athena-vs-redshift-a-real-world-data-lake-vs-warehouse-comparison-using-covid-19-data-1c0c2560bc89)
 - [Diving Under the Hood of Spark with MiniSpark](https://medium.com/@madhurdixit37/diving-under-the-hood-of-spark-with-minispark-a-pure-python-learning-playground-afe8fd21e90b)
+<!-- BLOG-POST-LIST:END -->
 
 </details>
 
@@ -131,8 +138,11 @@ pipx install csv-summary-cli
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MadhurDixit13&show_icons=true&theme=dracula&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhurDixit13&layout=compact&theme=dracula&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
 
 <img src="https://streak-stats.demolab.com/?user=MadhurDixit13&theme=dracula&hide_border=true" />
 
@@ -142,13 +152,13 @@ pipx install csv-summary-cli
 
 ---
 
-## 🐍 Contribution Snake
+## 🎧 Now Playing
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MadhurDixit13/MadhurDixit13/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MadhurDixit13/MadhurDixit13/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/MadhurDixit13/MadhurDixit13/output/github-snake.svg" />
-</picture>
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wcbnox2tvd72wppoa2krm37nga&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=false&profanity=false&hide_remaster=false&bar_color=bd93f9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
 
 ---
 
