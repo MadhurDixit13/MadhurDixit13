@@ -126,8 +126,8 @@ pipx install csv-summary-cli
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Athena vs. Redshift: A Real-World Data Lake vs. Warehouse Comparison](https://medium.com/@madhurdixit37/athena-vs-redshift-a-real-world-data-lake-vs-warehouse-comparison-using-covid-19-data-1c0c2560bc89)
-- [Diving Under the Hood of Spark with MiniSpark](https://medium.com/@madhurdixit37/diving-under-the-hood-of-spark-with-minispark-a-pure-python-learning-playground-afe8fd21e90b)
+- [Diving Under the Hood of Spark with MiniSpark: A Pure-Python Learning Playground](https://medium.com/@madhurdixit37/diving-under-the-hood-of-spark-with-minispark-a-pure-python-learning-playground-afe8fd21e90b?source=rss-6b4d20021e66------2)
+- [Athena vs Redshift: A Real-World Data Lake vs Warehouse Comparison Using COVID-19 Data](https://medium.com/@madhurdixit37/athena-vs-redshift-a-real-world-data-lake-vs-warehouse-comparison-using-covid-19-data-1c0c2560bc89?source=rss-6b4d20021e66------2)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
