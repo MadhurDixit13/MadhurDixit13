@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/madixit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://madhurdixit13.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-BD93F9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://madhur-portfolio-cyan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-BD93F9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://medium.com/@madhurdixit37"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="mailto:madhurdixit37@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
